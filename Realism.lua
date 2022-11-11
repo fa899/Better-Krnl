@@ -1,0 +1,3 @@
+local rconsole = {
+    print = rconsoleprint
+}
